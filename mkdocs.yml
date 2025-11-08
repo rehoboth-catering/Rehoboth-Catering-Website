@@ -45,5 +45,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Über uns: us/about.md
+#  - Über uns: us/about.md
   - Kontakt: contact.md
